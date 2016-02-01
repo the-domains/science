@@ -17,7 +17,7 @@ keywords:
   - gas
   - absorption
 description: "Scientists have discovered where a giant gas cloud that's on a collision course with the Milky Way comes from, and the answer is closer to home than you might think. Astronomers used the Hubble Space Telescope to determine for the first time the composition of the Smith Cloud, a giant gas cloud which will merge with the Milky Way in 30 million years."
-datePublished: '2016-02-01T00:57:59.667Z'
+datePublished: '2016-02-01T00:57:59.568Z'
 dateModified: '2016-02-01T00:57:56.565Z'
 author: []
 related: []

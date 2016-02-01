@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T01:03:43.970Z'
+datePublished: '2016-02-01T01:03:43.972Z'
 dateModified: '2016-02-01T01:03:39.845Z'
 title: I Fucking Love Science
 author: []

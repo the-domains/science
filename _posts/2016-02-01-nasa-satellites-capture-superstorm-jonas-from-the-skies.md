@@ -17,7 +17,7 @@ keywords:
   - '2016'
   - co-founder
 description: "While the inches upon inches of snow caused joy, inconvenience and tragedy to millions of people on the East Coast, NASA's satellites were up above and taking full advantage of their front-row view."
-datePublished: '2016-02-01T00:58:22.296Z'
+datePublished: '2016-02-01T00:58:22.376Z'
 dateModified: '2016-02-01T00:58:19.756Z'
 author: []
 related: []
